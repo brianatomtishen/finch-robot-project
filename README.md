@@ -24,10 +24,11 @@ In this project-based learning experience, you will program a Finch 2.0 robot to
 - Clone and set up GitHub repository for your project
 
 - This is our Picture of the finch 
-https://mail.google.com/mail/u/0?ui=2&ik=ede516df9f&attid=0.1&permmsgid=msg-a:r7771454330035631110&th=1974693e12fa550b&view=att&disp=safe&realattid=1974693433a1cdb97fa2&zw
+https://mail.google.com/mail/u/0?ui=2&ik=350d3eb2b5&attid=0.1&permmsgid=msg-f:1834206680040167874&th=19746941e87159c2&view=att&disp=safe&realattid=1974693433a1cdb97fa2&zw
 
-- This is our video of the finch 
-    https://mail.google.com/mail/u/0?ui=2&ik=ede516df9f&attid=0.2&permmsgid=msg-a:r7771454330035631110&th=1974693e12fa550b&view=att&disp=safe&realattid=197469342df8e0512651&zw
+- This is our video of the finch
+- https://mail.google.com/mail/u/0?ui=2&ik=350d3eb2b5&attid=0.2&permmsgid=msg-f:1834206680040167874&th=19746941e87159c2&view=att&disp=safe&realattid=197469342df8e0512651&zw
+   
 ### Technical Requirements
 Our program includes these Java/OOP concepts:
 - Inheritance/Subclasses
