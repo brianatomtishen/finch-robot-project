@@ -9,7 +9,8 @@ public class Catfish {
         bird.setBeak(72,49,13);
         bird.print("hello friend watch my dance");
         for (int i = 0; i < 4; i++) {
-            bird.setMove("F",15,100);    
+            bird.setMove("F",15,100);  
+            bird.setTurn("L",360,100);
             bird.setMove("B",15,100);
            bird.setTurn("R",90,100);
         }
