@@ -67,6 +67,7 @@ public class Catfish {
         bird.playNote(65,1);
         bird.pause(0.5);
         bird.playNote(67,1);
+        bird.setTurn("L",360,100);
         bird.stopAll();
     }
 }
