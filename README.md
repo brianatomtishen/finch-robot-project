@@ -1,7 +1,7 @@
 # Final Project: Finch Robot Challenges
 
 ## Project Description and objectives 
-Brianna and I worked on the code on the finch to allow it to dance and make some music. We based it on a dance that is commonly used as parties like Hoco & Prom 
+Briana and I worked on the code on the finch to allow it to dance and make some music. We based it on a dance that is commonly used as parties like Hoco & Prom 
 ## Descrition of design choices
 In this project-based learning experience, you will program a Finch 2.0 robot to perform one of three challenges:
 1. Choreograph a dance routine (with movement, lights, and sound)
@@ -13,9 +13,11 @@ In this project-based learning experience, you will program a Finch 2.0 robot to
 - Then understanding how the ficnh code work while using Git to move the finch
 - we had to look through the finch code to understand how to tell it preprogrammed methods
 -we used comments and java docs
-- We believe that our robot met most if not all the requirements 
+- We believe that our robot met most if not all the requirements
+- 
 ## Future   
-- If we had more time with less hicups throught the coding project we would have made the robot do more moves.
+- If we had more time with less hicups throught the coding project we would have made the robot do more moves. We would have also incorporated two different fnches with one who sings and one who dances so te moves could be executed at the same time.
+  
 ### Video or images of our Finch in action
 - Choose your challenge: dance, with a song
 - Explore the Finch API documentation
@@ -23,11 +25,11 @@ In this project-based learning experience, you will program a Finch 2.0 robot to
 - Create a project plan with pseudocode/flow charts/
 - Clone and set up GitHub repository for your project
 
-- This is our Picture of the finch 
+## This is our Picture of the finch 
 https://mail.google.com/mail/u/0?ui=2&ik=350d3eb2b5&attid=0.1&permmsgid=msg-f:1834206680040167874&th=19746941e87159c2&view=att&disp=safe&realattid=1974693433a1cdb97fa2&zw
 
-- This is our video of the finch
-- https://mail.google.com/mail/u/0?ui=2&ik=350d3eb2b5&attid=0.2&permmsgid=msg-f:1834206680040167874&th=19746941e87159c2&view=att&disp=safe&realattid=197469342df8e0512651&zw
+## This is our video of the finch
+https://mail.google.com/mail/u/0?ui=2&ik=350d3eb2b5&attid=0.2&permmsgid=msg-f:1834206680040167874&th=19746941e87159c2&view=att&disp=safe&realattid=197469342df8e0512651&zw
    
 ### Technical Requirements
 Our program includes these Java/OOP concepts:
